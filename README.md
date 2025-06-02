@@ -1,16 +1,27 @@
-# nandedic
+# DictNande
 
-A new Flutter project.
+**Dictionnaire Kinande–Français**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+DictNande est une application-dictionnaire Kinande–Français dont l’objectif est de préserver et de promouvoir la langue nande. Ce projet communautaire, porté par une petite équipe de bénévoles, permet de rechercher et de découvrir des mots en kinande, accompagnés de leurs traductions en français. Toutes les fonctionnalités sont disponibles hors ligne, ce qui garantit une utilisation même sans connexion Internet.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> **Note**  
+> Les mots et exemples sont ajoutés progressivement : merci de votre patience ! Vous pouvez également contribuer en suggérant de nouveaux termes ou des corrections directement depuis l’application ou via WhatsApp.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Fonctionnalités clés
+
+- **Hors ligne complet**  
+  Toutes les recherches fonctionnent sans connexion : votre forfait reste intact.
+
+- **Mises à jour progressives**  
+  L’équipe bénévole enrichit le dictionnaire chaque semaine avec de nouveaux mots et exemples.
+
+- **Open Community**  
+  Partagez vos suggestions de termes ou de corrections directement depuis l’application ou via WhatsApp.
+
+---
